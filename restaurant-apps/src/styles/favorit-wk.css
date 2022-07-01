@@ -1,0 +1,10 @@
+#wishlist-waroengku {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5em;
+    padding-top: 1.5em;
+  }
+
+.title-container {
+  color: #008000;
+}
